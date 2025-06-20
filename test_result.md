@@ -197,3 +197,5 @@ test_plan:
 agent_communication:
   - agent: "main"
     message: "Implemented complete personal website for Uddip Ranjan Das with dark tech theme. Features include: CV sections (Hero, About, Experience, Skills), blog with markdown support, search/filter functionality, sample cybersecurity posts, responsive design. Need frontend testing to verify all functionality works correctly."
+  - agent: "testing"
+    message: "Completed comprehensive testing of Uddip Ranjan Das's personal website. All features are working correctly: CV content sections (Hero, About, Experience, Skills), blog functionality with search/filter/tag features, markdown rendering with syntax highlighting, responsive design across different screen sizes, and navigation between sections. No critical issues found. The website successfully implements the dark cybersecurity theme with cyan accents as requested."
