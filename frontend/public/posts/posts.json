@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Advanced APT Detection Techniques",
+    "date": "2025-06-15",
+    "tags": ["APT", "Threat Hunting", "SOC"],
+    "category": "Threat Intelligence",
+    "excerpt": "Deep dive into advanced persistent threat detection methodologies and their implementation in modern SOC environments.",
+    "filename": "advanced-apt-detection.md"
+  },
+  {
+    "id": 2,
+    "title": "MITRE ATT&CK Framework Implementation",
+    "date": "2025-06-10",
+    "tags": ["MITRE", "Framework", "Implementation"],
+    "category": "Security Operations",
+    "excerpt": "Practical guide to implementing MITRE ATT&CK framework in your security operations center.",
+    "filename": "mitre-attack-implementation.md"
+  },
+  {
+    "id": 3,
+    "title": "Malware Analysis Deep Dive",
+    "date": "2025-06-01",
+    "tags": ["Malware", "Reverse Engineering", "Analysis"],
+    "category": "Research",
+    "excerpt": "Comprehensive guide to malware analysis techniques including static and dynamic analysis methods.",
+    "filename": "malware-analysis-deep-dive.md"
+  }
+]
